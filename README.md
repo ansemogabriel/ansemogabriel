@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/ansemogabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?ansemogabrie=ansemogabrie&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ansemogabrie=ansemogabrie&layout=compact&langs_count=7&theme=blank"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansemogabriel&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansemogabriel&layout=compact&langs_count=7&theme=blank"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -32,13 +32,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.youtube.com/@lcrazyxalx7079/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
   <a href="https://www.instagram.com/1gbrxz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- 	<a href="https://ansemogabrie.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
-
- <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+ 	<a href="https://ansemogabriel.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ansemogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
